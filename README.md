@@ -3,8 +3,8 @@
 <span style="color:blue">**This Website is built for following purpose:-**</span>
 - For Selling books online.
 - Maintaining books selling history
-- Adding and managing books
-- User Friendly
+- Adding and managing books.
+- User Friendly.
 - For Implemention of Generic Servlets in Java
 - This is a Mini-project developed using Java, Jdbc, And Generic Servlets
 
