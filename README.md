@@ -9,10 +9,10 @@
 - This is a Mini-project developed using Java, Jdbc, And Generic Servlets
 
 <span style="color:blue">**Admin Have Following Access for this online store site:-**</span>
-- Add New Books
-- View Books Available
-- Remove Books
-- Increase Books Amount
+- Add New Books.
+- View Books Available.
+- Remove Books.
+- Increase Books Amount.
 
 <span style="color:blue">**Users Have Following Access for this online store site:-**</span>
 - Create New Account or Register
